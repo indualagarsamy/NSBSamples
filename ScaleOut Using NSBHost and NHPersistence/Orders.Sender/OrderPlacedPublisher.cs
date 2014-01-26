@@ -10,7 +10,7 @@ namespace Orders.Sender
 
         public void Start()
         {
-            Console.WriteLine("Press 'Enter' to send a message. To exit, Ctrl + C");
+            Console.WriteLine("Press 'Enter' to publish an event. To exit, Ctrl + C");
             var counter = 0;
             while (Console.ReadLine() != null)
             {
