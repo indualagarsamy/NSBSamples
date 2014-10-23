@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandHandlers", "CommandHandlers\CommandHandlers.csproj", "{9269C8C0-E450-4971-A558-150096FCDB1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NewMessages", "NewMessages\NewMessages.csproj", "{58FFDBEF-7E94-4D70-8F2C-00E836D4E90D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SagaTest", "SagaTest\SagaTest.csproj", "{D8542D04-BA53-425A-B617-BEAA15EE7F9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9269C8C0-E450-4971-A558-150096FCDB1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9269C8C0-E450-4971-A558-150096FCDB1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9269C8C0-E450-4971-A558-150096FCDB1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9269C8C0-E450-4971-A558-150096FCDB1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58FFDBEF-7E94-4D70-8F2C-00E836D4E90D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58FFDBEF-7E94-4D70-8F2C-00E836D4E90D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58FFDBEF-7E94-4D70-8F2C-00E836D4E90D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58FFDBEF-7E94-4D70-8F2C-00E836D4E90D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8542D04-BA53-425A-B617-BEAA15EE7F9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8542D04-BA53-425A-B617-BEAA15EE7F9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8542D04-BA53-425A-B617-BEAA15EE7F9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8542D04-BA53-425A-B617-BEAA15EE7F9C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
