@@ -1,4 +1,4 @@
 NSBSamples
 ==========
 
-Experiements, samples, NSB fun!
+Experiments, samples, NSB fun!
